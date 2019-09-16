@@ -1,4 +1,4 @@
-# Improvise some part of the game
+# Improvise some part of the game (Contribution)
 - Added a feature displaying total number of moves 
 - Added an undo button feature 
 - Added a new game button feature
